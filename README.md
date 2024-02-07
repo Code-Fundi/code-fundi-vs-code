@@ -1,5 +1,5 @@
 <p align="center">
- <img width="150px" src="./media/gradient-bg-logo.png" align="center" alt="Code Fundi" />
+ <img width="150px" src="https://github.com/Code-Fundi/.github/blob/main/media/gradient-bg-logo.png?raw=true" align="center" alt="Code Fundi" />
  <h2 align="center"><b>Code Fundi</b></h2>
  <p align="center">An AI assistant that helps you write better code faster.</p>
  </br>
